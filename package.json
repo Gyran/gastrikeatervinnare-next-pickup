@@ -1,0 +1,11 @@
+{
+  "name": "gastrikeatervinnare-next-pickup",
+  "version": "1.0.0",
+  "description": "get an array of the next pickup dates for gastrikeatervinnare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustav Ahlberg",
+  "license": "ISC"
+}
